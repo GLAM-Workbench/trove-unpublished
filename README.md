@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549344.svg)](https://doi.org/10.5281/zenodo.3549344)
+
 # trove-unpublished
 
 Experiments and examples relating to Trove's 'Diaries, letters, and archives' zone
