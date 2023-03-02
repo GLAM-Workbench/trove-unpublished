@@ -1,0 +1,11 @@
+jupyterlab
+# To deal with https://github.com/jupyter-server/jupyter_server/issues/1038
+jupyter-server<2.0.0
+requests
+python-dotenv
+requests-cache
+pandas
+tqdm
+ipywidgets
+beautifulsoup4
+lxml
