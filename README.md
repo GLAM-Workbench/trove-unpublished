@@ -17,7 +17,7 @@ Notebook topics
 Datasets:
 
 * Unpublished works that might be entering the public domain on 1 January 2019 &ndash; [Download CSV file  (1.8mb)](https://github.com/GLAM-Workbench/trove-unpublished/blob/master/unpublished_works_entering_pd_20181006.csv)
-* [`finding-aids-totals.csv`](https://github.com/GLAM-Workbench/nla-finding-aids-data/blob/main/finding-aids.csv) – list of urls for NLA digitised finding aids 
+* [`finding-aids.csv`](https://github.com/GLAM-Workbench/nla-finding-aids-data/blob/main/finding-aids.csv) – list of urls for NLA digitised finding aids 
 * [`finding-aids-totals.csv`](https://github.com/GLAM-Workbench/nla-finding-aids-data/blob/main/finding-aids-totals.csv) – summary information describing NLA digitised finding aids
 
 <!-- START RUN INFO -->
@@ -83,7 +83,7 @@ See [Getting started](https://glam-workbench.net/getting-started/#using-python-o
 
 ## Cite as
 
-See the GLAM Workbench or [Zenodo](https://doi.org/10.5281/zenodo.3549403) for up-to-date citation details.
+See the GLAM Workbench or [Zenodo](https://doi.org/10.5281/zenodo.3549343) for up-to-date citation details.
 
 ----
 
