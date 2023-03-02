@@ -1,0 +1,41 @@
+{
+  "language": "eng",
+  "license": "MIT",
+  "title": "GLAM-Workbench/trove-unpublished",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/trove-unpublished/tree/v1.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/trove-unpublished/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-softwaredocumentation"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://glam-workbench.net/",
+      "relation": "isPartOf",
+      "resource_type": "other"
+    }
+  ],
+  "version": "v1.0.0",
+  "upload_type": "software",
+  "keywords": [
+    "digital humanities",
+    "Jupyter",
+    "GLAM Workbench"
+  ],
+  "publication_date": "2023-03-02",
+  "creators": [
+    {
+      "name": "Sherratt, Tim",
+      "orcid": "0000-0001-7956-4498"
+    }
+  ],
+  "access_right": "open",
+  "description": "<p>Current version: <a href=\"https://github.com/GLAM-Workbench/trove-unpublished/releases/tag/v1.0.0\">v1.0.0</a></p> <p>Experiments and examples relating to Trove’s ‘Diaries, letters, and archives’ zone</p> <p>See the <a href=\"https://glam-workbench.net/trove-unpublished/\">Trove unpublished section</a> of the GLAM Workbench for more details.</p> <p>Notebook topics</p> <ul> <li>Finding unpublished works that might be entering the public domain on 1 January 2019</li> <li>Exploring unpublished works that might be entering the public domain on 1 January 2019</li> <li>Find urls of digitised finding aids – harvest urls of digitised NLA finding aids</li> <li>Collect information about digitised finding aids – work through the list of urls, extracting additional information for each finding aid</li> <li>Convert a HTML finding aid to JSON – scrapes a HTML finding aid to extract basic details and hierarchical structure</li> </ul> <p>Datasets:</p> <ul> <li>Unpublished works that might be entering the public domain on 1 January 2019 – <a href=\"https://github.com/GLAM-Workbench/trove-unpublished/blob/master/unpublished_works_entering_pd_20181006.csv\">Download CSV file (1.8mb)</a></li> <li><a href=\"https://github.com/GLAM-Workbench/nla-finding-aids-data/blob/main/finding-aids.csv\"><code>finding-aids-totals.csv</code></a> – list of urls for NLA digitised finding aids</li> <li><a href=\"https://github.com/GLAM-Workbench/nla-finding-aids-data/blob/main/finding-aids-totals.csv\"><code>finding-aids-totals.csv</code></a> – summary information describing NLA digitised finding aids</li> </ul> <h2 id=\"cite-as\">Cite as</h2> <p>See the GLAM Workbench or <a href=\"https://doi.org/10.5281/zenodo.3549403\">Zenodo</a> for up-to-date citation details.</p> <hr /> <p>This repository is part of the <a href=\"https://glam-workbench.net/\">GLAM Workbench</a>.</p>"
+}
